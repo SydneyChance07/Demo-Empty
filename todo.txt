@@ -1,1 +1,2 @@
 This project tracks my Git practice.
+3. Make a commit
